@@ -1,0 +1,30 @@
+{
+    "Champ_name": [
+        "ahri",
+        "ziggs"
+    ],
+    "Champ_trait": [
+        "syndicate",
+        "scrap"
+    ],
+    "Champ_item3": [
+        "BB",
+        "dc"
+    ],
+    "Champ_atttribute": [
+        "arcanist",
+        "arcnist"
+    ],
+    "Champ_cost": [
+        4,
+        1
+    ],
+    "Champ_item2": [
+        "JG",
+        "bv"
+    ],
+    "Champ_item1": [
+        "IE",
+        "wm'"
+    ]
+}
